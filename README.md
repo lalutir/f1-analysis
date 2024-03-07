@@ -28,6 +28,7 @@ pip install -r requirements.txt
 ```
 
 3. Explore the provided notebooks and scripts to analyze Formula 1 data
+- For more information, like metadata, see the [setup.py](setup.py)
 
 ## Usage
 - Use the provided notebooks as a guide for analyzing Formula 1 data.
@@ -36,6 +37,9 @@ pip install -r requirements.txt
 
 ## Contributing
 Contributions to f1-analysis are welcome! Whether it's fixing bugs, adding new features, or improving documentation, your contributions are greatly appreciated. Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on contributing to this repository.
+
+## Code of Conduct
+Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
