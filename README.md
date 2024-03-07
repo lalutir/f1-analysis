@@ -21,7 +21,13 @@ To get started with f1-analysis, follow these steps:
 git clone https://github.com/lalutir/f1-analysis.git
 ```
 
-2. Explore the provided notebooks and scripts to analyze Formula 1 data
+2. Install the required dependencies using pip:
+
+```
+pip install -r requirements.txt
+```
+
+3. Explore the provided notebooks and scripts to analyze Formula 1 data
 
 ## Usage
 - Use the provided notebooks as a guide for analyzing Formula 1 data.
