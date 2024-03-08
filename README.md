@@ -41,6 +41,25 @@ Contributions to f1-analysis are welcome! Whether it's fixing bugs, adding new f
 ## Code of Conduct
 Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
+## Versioning
+For Alpha and Beta releases, versioning will follow the format `vA.B.C-alpha/beta`, where:
+
+- `A` represents major changes,
+- `B` represents minor changes, and
+- `C` represents patches.
+
+After the Alpha/Beta phase, versioning will transition to `vYEAR.ROUND.SESSION(.PATCH)`, where:
+
+- `YEAR` corresponds to the year in which the release is released,
+- `ROUND` represents the round number of the Grand Prix within the season,
+- `SESSION` represents the session number in the round, and
+- `(.PATCH)` denotes a possible mid-round patch.
+
+For example:
+
+- `v1.0.0-beta` indicates the first beta release.
+- `v2024.03.01` indicates the release of the 2024 Formula 1 season, round 3, session 1.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
