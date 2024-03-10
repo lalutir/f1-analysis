@@ -65,5 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 - Special thanks to the creators and maintainers of the FastF1 library for their invaluable contribution to Formula 1 data analysis. [Link to FastF1](https://github.com/theOehrly/Fast-F1)
-##
+
+</br>
+
 Start exploring Formula 1 data with f1-analysis today and uncover fascinating insights into the world of motorsport!
