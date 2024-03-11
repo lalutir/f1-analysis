@@ -1,2 +1,7 @@
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+github:
+  is_project_page: true
+description:  <a href="https://lalutir.github.io" target="_blank">Main portfolio page</a>
+gh_sponsor: lalutir
+
